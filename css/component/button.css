@@ -1,0 +1,13 @@
+.btn-green {
+	background-color: #FFB6B9;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: floralwhite;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+}
+
+.btn-green:hover {
+	background-color:#FF9090;
+	color: ghostwhite;
+}
